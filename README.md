@@ -1,4 +1,4 @@
-# Arch-Silver AS-47 Alice-Inspired 45% Gasket-Mounted Hand-wired Keyboard
+# ArchSilver AS-47 Alice-Inspired 45% Gasket-Mounted Hand-wired Keyboard
 
 **Current status - First 3D model is incomplete, and is still a work in progress.**
 
