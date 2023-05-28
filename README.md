@@ -20,4 +20,5 @@ Current status - First 3D model is incomplete, and is still a work in progress.
 - Gasket-mount using D65 gaskets from KBDFans.
 - A keylayout that is "brick-laid" by hand to resemble brick arches with 47 keys total. (Hence the name Arch-Silver)
 - Doubling down on the silver theme by using Kailh Low-profile silver switches.
+
 _47 is the elemental number of Silver._
