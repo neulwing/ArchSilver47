@@ -3,6 +3,7 @@
 **Current status - First 3D model is incomplete, and is still a work in progress.**
 
 ![image](https://github.com/neulwing/ArchSilver47/assets/44045041/ebbbc4a1-bffe-4c29-97a0-f57dbb877309)
+![image](https://github.com/neulwing/ArchSilver47/assets/44045041/dcfaad3d-dcb4-4dab-9bd4-153a93decc33)
 
 ## Project Objectives
 - Fix inconsistent spacing of the Alice-inspired layout.
