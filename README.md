@@ -26,3 +26,18 @@
 - Doubling down on the silver theme by using Kailh Low-profile silver switches.
 
 _47 is the elemental number of Silver._
+
+## 3D-printed Gasket Mount Keyboard CAD process (Janky Boolean process that takes forever)
+**IMPORTANT - Always layout the inside first as this will determine how big the case will be.**
+**IMPORTANT - Always allow for 0.2-0.4mm of tolerance. **
+- Define key layout.
+- Create an outline for the key layout, this will be where the hole/s in the top case will be for where the keys will go.
+- Lay down the gaskets in desired positons.
+- Plan where the screws and attachment nuts will go.
+- Add pillars around the screw holes. This will be for the bottom case.
+- Add pillars around the attachment nuts. This will be for the top case.
+- Create the Keyboard Plate.
+- Measure out outer case dimensions, making sure that all the walls are at least 0.8mm. (I am currently at this stage.)
+- Create top and bottom case.
+- ???
+- PROFIT!!!
